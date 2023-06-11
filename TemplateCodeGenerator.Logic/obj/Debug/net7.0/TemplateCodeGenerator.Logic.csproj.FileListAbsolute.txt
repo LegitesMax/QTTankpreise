@@ -1,0 +1,15 @@
+C:\Users\zeili\OneDrive\PrivatProjects\QTTankpreise\TemplateCodeGenerator.Logic\bin\Debug\net7.0\TemplateCodeGenerator.Logic.deps.json
+C:\Users\zeili\OneDrive\PrivatProjects\QTTankpreise\TemplateCodeGenerator.Logic\bin\Debug\net7.0\TemplateCodeGenerator.Logic.dll
+C:\Users\zeili\OneDrive\PrivatProjects\QTTankpreise\TemplateCodeGenerator.Logic\bin\Debug\net7.0\TemplateCodeGenerator.Logic.pdb
+C:\Users\zeili\OneDrive\PrivatProjects\QTTankpreise\TemplateCodeGenerator.Logic\bin\Debug\net7.0\CommonBase.dll
+C:\Users\zeili\OneDrive\PrivatProjects\QTTankpreise\TemplateCodeGenerator.Logic\bin\Debug\net7.0\CommonBase.pdb
+C:\Users\zeili\OneDrive\PrivatProjects\QTTankpreise\TemplateCodeGenerator.Logic\obj\Debug\net7.0\TemplateCodeGenerator.Logic.csproj.AssemblyReference.cache
+C:\Users\zeili\OneDrive\PrivatProjects\QTTankpreise\TemplateCodeGenerator.Logic\obj\Debug\net7.0\TemplateCodeGenerator.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeili\OneDrive\PrivatProjects\QTTankpreise\TemplateCodeGenerator.Logic\obj\Debug\net7.0\TemplateCodeGenerator.Logic.AssemblyInfoInputs.cache
+C:\Users\zeili\OneDrive\PrivatProjects\QTTankpreise\TemplateCodeGenerator.Logic\obj\Debug\net7.0\TemplateCodeGenerator.Logic.AssemblyInfo.cs
+C:\Users\zeili\OneDrive\PrivatProjects\QTTankpreise\TemplateCodeGenerator.Logic\obj\Debug\net7.0\TemplateCodeGenerator.Logic.csproj.CoreCompileInputs.cache
+C:\Users\zeili\OneDrive\PrivatProjects\QTTankpreise\TemplateCodeGenerator.Logic\obj\Debug\net7.0\TemplateCodeGenerator.Logic.csproj.CopyComplete
+C:\Users\zeili\OneDrive\PrivatProjects\QTTankpreise\TemplateCodeGenerator.Logic\obj\Debug\net7.0\TemplateCodeGenerator.Logic.dll
+C:\Users\zeili\OneDrive\PrivatProjects\QTTankpreise\TemplateCodeGenerator.Logic\obj\Debug\net7.0\refint\TemplateCodeGenerator.Logic.dll
+C:\Users\zeili\OneDrive\PrivatProjects\QTTankpreise\TemplateCodeGenerator.Logic\obj\Debug\net7.0\TemplateCodeGenerator.Logic.pdb
+C:\Users\zeili\OneDrive\PrivatProjects\QTTankpreise\TemplateCodeGenerator.Logic\obj\Debug\net7.0\ref\TemplateCodeGenerator.Logic.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\QTTankpreise.WebApi.props" />
+</Project>

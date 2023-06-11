@@ -1,0 +1,217 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = QTTankpreise.AspMvc
+build_property.RootNamespace = QTTankpreise.AspMvc
+build_property.ProjectDir = C:\Users\zeili\OneDrive\PrivatProjects\QTTankpreise\QTTankpreise.AspMvc\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = C:\Users\zeili\OneDrive\PrivatProjects\QTTankpreise\QTTankpreise.AspMvc
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/zeili/OneDrive/PrivatProjects/QTTankpreise/QTTankpreise.AspMvc/Views/Account/ChangePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDaGFuZ2VQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zeili/OneDrive/PrivatProjects/QTTankpreise/QTTankpreise.AspMvc/Views/Account/ConfirmationChangePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDb25maXJtYXRpb25DaGFuZ2VQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zeili/OneDrive/PrivatProjects/QTTankpreise/QTTankpreise.AspMvc/Views/Account/ConfirmationResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDb25maXJtYXRpb25SZXNldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zeili/OneDrive/PrivatProjects/QTTankpreise/QTTankpreise.AspMvc/Views/Account/Logon.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zeili/OneDrive/PrivatProjects/QTTankpreise/QTTankpreise.AspMvc/Views/Account/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zeili/OneDrive/PrivatProjects/QTTankpreise/QTTankpreise.AspMvc/Views/FuelPrices/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVlbFByaWNlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zeili/OneDrive/PrivatProjects/QTTankpreise/QTTankpreise.AspMvc/Views/FuelPrices/_DisplayModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVlbFByaWNlc1xfRGlzcGxheU1vZGVsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zeili/OneDrive/PrivatProjects/QTTankpreise/QTTankpreise.AspMvc/Views/FuelPrices/_EditModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVlbFByaWNlc1xfRWRpdE1vZGVsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zeili/OneDrive/PrivatProjects/QTTankpreise/QTTankpreise.AspMvc/Views/FuelPrices/_Filter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVlbFByaWNlc1xfRmlsdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zeili/OneDrive/PrivatProjects/QTTankpreise/QTTankpreise.AspMvc/Views/FuelPrices/_TableHeader.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVlbFByaWNlc1xfVGFibGVIZWFkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zeili/OneDrive/PrivatProjects/QTTankpreise/QTTankpreise.AspMvc/Views/FuelPrices/_TableRow.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVlbFByaWNlc1xfVGFibGVSb3cuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zeili/OneDrive/PrivatProjects/QTTankpreise/QTTankpreise.AspMvc/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zeili/OneDrive/PrivatProjects/QTTankpreise/QTTankpreise.AspMvc/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zeili/OneDrive/PrivatProjects/QTTankpreise/QTTankpreise.AspMvc/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zeili/OneDrive/PrivatProjects/QTTankpreise/QTTankpreise.AspMvc/Views/Identities/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWRlbnRpdGllc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zeili/OneDrive/PrivatProjects/QTTankpreise/QTTankpreise.AspMvc/Views/Identities/_DisplayModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWRlbnRpdGllc1xfRGlzcGxheU1vZGVsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zeili/OneDrive/PrivatProjects/QTTankpreise/QTTankpreise.AspMvc/Views/Identities/_EditModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWRlbnRpdGllc1xfRWRpdE1vZGVsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zeili/OneDrive/PrivatProjects/QTTankpreise/QTTankpreise.AspMvc/Views/Identities/_Filter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWRlbnRpdGllc1xfRmlsdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zeili/OneDrive/PrivatProjects/QTTankpreise/QTTankpreise.AspMvc/Views/Identities/_TableHeader.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWRlbnRpdGllc1xfVGFibGVIZWFkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zeili/OneDrive/PrivatProjects/QTTankpreise/QTTankpreise.AspMvc/Views/Identities/_TableRow.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWRlbnRpdGllc1xfVGFibGVSb3cuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zeili/OneDrive/PrivatProjects/QTTankpreise/QTTankpreise.AspMvc/Views/IdentityRoles/_DisplayModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWRlbnRpdHlSb2xlc1xfRGlzcGxheU1vZGVsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zeili/OneDrive/PrivatProjects/QTTankpreise/QTTankpreise.AspMvc/Views/IdentityRoles/_EditModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWRlbnRpdHlSb2xlc1xfRWRpdE1vZGVsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zeili/OneDrive/PrivatProjects/QTTankpreise/QTTankpreise.AspMvc/Views/IdentityRoles/_Filter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWRlbnRpdHlSb2xlc1xfRmlsdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zeili/OneDrive/PrivatProjects/QTTankpreise/QTTankpreise.AspMvc/Views/IdentityRoles/_TableHeader.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWRlbnRpdHlSb2xlc1xfVGFibGVIZWFkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zeili/OneDrive/PrivatProjects/QTTankpreise/QTTankpreise.AspMvc/Views/IdentityRoles/_TableRow.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWRlbnRpdHlSb2xlc1xfVGFibGVSb3cuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zeili/OneDrive/PrivatProjects/QTTankpreise/QTTankpreise.AspMvc/Views/IdentityUsers/_DisplayModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWRlbnRpdHlVc2Vyc1xfRGlzcGxheU1vZGVsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zeili/OneDrive/PrivatProjects/QTTankpreise/QTTankpreise.AspMvc/Views/IdentityUsers/_EditModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWRlbnRpdHlVc2Vyc1xfRWRpdE1vZGVsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zeili/OneDrive/PrivatProjects/QTTankpreise/QTTankpreise.AspMvc/Views/IdentityUsers/_Filter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWRlbnRpdHlVc2Vyc1xfRmlsdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zeili/OneDrive/PrivatProjects/QTTankpreise/QTTankpreise.AspMvc/Views/IdentityUsers/_TableHeader.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWRlbnRpdHlVc2Vyc1xfVGFibGVIZWFkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zeili/OneDrive/PrivatProjects/QTTankpreise/QTTankpreise.AspMvc/Views/IdentityUsers/_TableRow.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWRlbnRpdHlVc2Vyc1xfVGFibGVSb3cuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zeili/OneDrive/PrivatProjects/QTTankpreise/QTTankpreise.AspMvc/Views/Shared/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zeili/OneDrive/PrivatProjects/QTTankpreise/QTTankpreise.AspMvc/Views/Shared/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zeili/OneDrive/PrivatProjects/QTTankpreise/QTTankpreise.AspMvc/Views/Shared/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zeili/OneDrive/PrivatProjects/QTTankpreise/QTTankpreise.AspMvc/Views/Shared/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zeili/OneDrive/PrivatProjects/QTTankpreise/QTTankpreise.AspMvc/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zeili/OneDrive/PrivatProjects/QTTankpreise/QTTankpreise.AspMvc/Views/Shared/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zeili/OneDrive/PrivatProjects/QTTankpreise/QTTankpreise.AspMvc/Views/Shared/_DisplayModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9EaXNwbGF5TW9kZWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zeili/OneDrive/PrivatProjects/QTTankpreise/QTTankpreise.AspMvc/Views/Shared/_EditModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9FZGl0TW9kZWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zeili/OneDrive/PrivatProjects/QTTankpreise/QTTankpreise.AspMvc/Views/Shared/_Filter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9GaWx0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zeili/OneDrive/PrivatProjects/QTTankpreise/QTTankpreise.AspMvc/Views/Shared/_Info.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9JbmZvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zeili/OneDrive/PrivatProjects/QTTankpreise/QTTankpreise.AspMvc/Views/Shared/_LoginMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpbk1lbnUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zeili/OneDrive/PrivatProjects/QTTankpreise/QTTankpreise.AspMvc/Views/Shared/_PortalMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Qb3J0YWxNZW51LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zeili/OneDrive/PrivatProjects/QTTankpreise/QTTankpreise.AspMvc/Views/Shared/_Submit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TdWJtaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zeili/OneDrive/PrivatProjects/QTTankpreise/QTTankpreise.AspMvc/Views/Shared/_SubmitBack.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TdWJtaXRCYWNrLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zeili/OneDrive/PrivatProjects/QTTankpreise/QTTankpreise.AspMvc/Views/Shared/_TableHeader.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9UYWJsZUhlYWRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zeili/OneDrive/PrivatProjects/QTTankpreise/QTTankpreise.AspMvc/Views/Shared/_TableRow.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9UYWJsZVJvdy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zeili/OneDrive/PrivatProjects/QTTankpreise/QTTankpreise.AspMvc/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zeili/OneDrive/PrivatProjects/QTTankpreise/QTTankpreise.AspMvc/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zeili/OneDrive/PrivatProjects/QTTankpreise/QTTankpreise.AspMvc/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zeili/OneDrive/PrivatProjects/QTTankpreise/QTTankpreise.AspMvc/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-z0coczr48o

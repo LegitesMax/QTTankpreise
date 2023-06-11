@@ -1,0 +1,22 @@
+﻿@*@GeneratedCode*@
+@model QTTankpreise.AspMvc.Models.Base.FuelPrice
+
+<tr>
+ <td>
+  @Html.DisplayFor(model => model.CompanyName)
+ </td>
+ <td>
+  @Html.DisplayFor(model => model.PriceStatus)
+ </td>
+ <td>
+  @Html.DisplayFor(model => model.Price)
+ </td>
+ <td>
+  @Html.DisplayFor(model => model.Distance)
+ </td>
+ <td>
+  @Html.ActionLink("Edit", "Edit", new { id=Model.Id }) |
+  @Html.ActionLink("Details", "Details", new { id=Model.Id }) |
+  @Html.ActionLink("Delete", "Delete", new { id=Model.Id })
+ </td>
+</tr>

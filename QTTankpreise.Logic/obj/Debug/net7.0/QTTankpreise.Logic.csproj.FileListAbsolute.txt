@@ -1,0 +1,15 @@
+C:\Users\zeili\OneDrive\PrivatProjects\QTTankpreise\QTTankpreise.Logic\bin\Debug\net7.0\QTTankpreise.Logic.deps.json
+C:\Users\zeili\OneDrive\PrivatProjects\QTTankpreise\QTTankpreise.Logic\bin\Debug\net7.0\QTTankpreise.Logic.dll
+C:\Users\zeili\OneDrive\PrivatProjects\QTTankpreise\QTTankpreise.Logic\bin\Debug\net7.0\QTTankpreise.Logic.pdb
+C:\Users\zeili\OneDrive\PrivatProjects\QTTankpreise\QTTankpreise.Logic\bin\Debug\net7.0\CommonBase.dll
+C:\Users\zeili\OneDrive\PrivatProjects\QTTankpreise\QTTankpreise.Logic\bin\Debug\net7.0\CommonBase.pdb
+C:\Users\zeili\OneDrive\PrivatProjects\QTTankpreise\QTTankpreise.Logic\obj\Debug\net7.0\QTTankpreise.Logic.csproj.AssemblyReference.cache
+C:\Users\zeili\OneDrive\PrivatProjects\QTTankpreise\QTTankpreise.Logic\obj\Debug\net7.0\QTTankpreise.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeili\OneDrive\PrivatProjects\QTTankpreise\QTTankpreise.Logic\obj\Debug\net7.0\QTTankpreise.Logic.AssemblyInfoInputs.cache
+C:\Users\zeili\OneDrive\PrivatProjects\QTTankpreise\QTTankpreise.Logic\obj\Debug\net7.0\QTTankpreise.Logic.AssemblyInfo.cs
+C:\Users\zeili\OneDrive\PrivatProjects\QTTankpreise\QTTankpreise.Logic\obj\Debug\net7.0\QTTankpreise.Logic.csproj.CoreCompileInputs.cache
+C:\Users\zeili\OneDrive\PrivatProjects\QTTankpreise\QTTankpreise.Logic\obj\Debug\net7.0\QTTankpreise.Logic.csproj.CopyComplete
+C:\Users\zeili\OneDrive\PrivatProjects\QTTankpreise\QTTankpreise.Logic\obj\Debug\net7.0\QTTankpreise.Logic.dll
+C:\Users\zeili\OneDrive\PrivatProjects\QTTankpreise\QTTankpreise.Logic\obj\Debug\net7.0\refint\QTTankpreise.Logic.dll
+C:\Users\zeili\OneDrive\PrivatProjects\QTTankpreise\QTTankpreise.Logic\obj\Debug\net7.0\QTTankpreise.Logic.pdb
+C:\Users\zeili\OneDrive\PrivatProjects\QTTankpreise\QTTankpreise.Logic\obj\Debug\net7.0\ref\QTTankpreise.Logic.dll

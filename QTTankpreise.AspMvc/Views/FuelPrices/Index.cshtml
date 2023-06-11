@@ -1,0 +1,148 @@
+﻿@model IEnumerable<QTTankpreise.AspMvc.Models.Base.FuelPrice>
+
+@{
+    ViewData["Title"] = "Übersicht";
+}
+
+<h1>Übersicht</h1>
+<br />
+@*<p>
+    <a asp-action="Create">Create New</a>
+</p>*@
+
+<form asp-action="Filter">
+
+    <dl class="row">
+        <dd class="col-sm-3 w-auto">
+            <input class="form-control" type="text" name="location" value="" placeholder="Stadt / PLZ" />
+        </dd>
+        <dd class="col-sm-3">
+            <select class="form-select" name="distance" id="id_entfernung">
+                <option value="1">1 km</option>
+                <option value="2">2 km</option>
+                <option value="3">3 km</option>
+                <option value="4">4 km</option>
+                <option value="5" selected="">5 km</option>
+                <option value="6">6 km</option>
+                <option value="8">8 km</option>
+                <option value="10">10 km</option>
+                <option value="12">12 km</option>
+                <option value="15">15 km</option>
+                <option value="20">20 km</option>
+            </select>
+        </dd>
+        <dd class="col-sm-3">
+            <select class="form-select" name="fuel" id="id_sorte">
+                <option value="diesel">Diesel</option>
+                <option value="super-e5">Super</option>
+            </select>
+        </dd>
+        <dd class="col-sm-3">
+            <input class="btn btn-primary" type="submit" value="Anzeigen">
+        </dd>
+    </dl>
+
+</form>
+
+@if(Model.Count() != 0){
+
+<h4>Preisübersicht in: @ViewBag.Stadt</h4>
+<div class="d-flex justify-content-md-start">
+    @foreach (var item in Model)
+    {
+        <div class="card mx-2" style="width: 18rem;">
+            <div class="card-body">
+                <h5 class="card-title">@Html.DisplayFor(modelItem => item.PriceStatus)</h5>
+                <hr>
+                <dl class="row">
+                    <dd class="col-sm-6">
+                        @Html.DisplayNameFor(model => model.CompanyName)
+                    </dd>
+                    <dd class="col-sm-6">
+                        @Html.DisplayFor(modelItem => item.CompanyName)
+                    </dd>
+                </dl>
+
+                <dl class="row">
+                    <dd class="col-sm-6">
+                        @Html.DisplayNameFor(model => model.Price)
+                    </dd>
+                    <dd class="col-sm-6">
+                        @Html.DisplayFor(modelItem => item.Price) €
+                    </dd>
+                </dl>
+
+                <dl class="row">
+                    <dd class="col-sm-6">
+                        @Html.DisplayNameFor(model => model.Distance)
+                    </dd>
+                    <dd class="col-sm-6">
+                        @Html.DisplayFor(modelItem => item.Distance)
+                    </dd>
+                </dl>
+                @* <a href="#" class="btn btn-primary">Go somewhere</a>*@
+            </div>
+        </div>
+    }
+</div>
+}
+else {
+    <div class="alert alert-danger w-25">
+        <p>Geben Sie etwas in der Suche ein :)</p>
+    </div>
+}
+@*<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CompanyName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PriceStatus)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Distance)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IsIdDefault)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CompanyName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PriceStatus)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Price)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Distance)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IsIdDefault)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                    @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                    @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>*@

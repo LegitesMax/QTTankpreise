@@ -1,0 +1,15 @@
+C:\Users\zeili\OneDrive\PrivatProjects\QTTankpreise\CleanDirectories.ConApp\bin\Debug\net7.0\CleanDirectories.ConApp.exe
+C:\Users\zeili\OneDrive\PrivatProjects\QTTankpreise\CleanDirectories.ConApp\bin\Debug\net7.0\CleanDirectories.ConApp.deps.json
+C:\Users\zeili\OneDrive\PrivatProjects\QTTankpreise\CleanDirectories.ConApp\bin\Debug\net7.0\CleanDirectories.ConApp.runtimeconfig.json
+C:\Users\zeili\OneDrive\PrivatProjects\QTTankpreise\CleanDirectories.ConApp\bin\Debug\net7.0\CleanDirectories.ConApp.dll
+C:\Users\zeili\OneDrive\PrivatProjects\QTTankpreise\CleanDirectories.ConApp\bin\Debug\net7.0\CleanDirectories.ConApp.pdb
+C:\Users\zeili\OneDrive\PrivatProjects\QTTankpreise\CleanDirectories.ConApp\obj\Debug\net7.0\CleanDirectories.ConApp.csproj.AssemblyReference.cache
+C:\Users\zeili\OneDrive\PrivatProjects\QTTankpreise\CleanDirectories.ConApp\obj\Debug\net7.0\CleanDirectories.ConApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeili\OneDrive\PrivatProjects\QTTankpreise\CleanDirectories.ConApp\obj\Debug\net7.0\CleanDirectories.ConApp.AssemblyInfoInputs.cache
+C:\Users\zeili\OneDrive\PrivatProjects\QTTankpreise\CleanDirectories.ConApp\obj\Debug\net7.0\CleanDirectories.ConApp.AssemblyInfo.cs
+C:\Users\zeili\OneDrive\PrivatProjects\QTTankpreise\CleanDirectories.ConApp\obj\Debug\net7.0\CleanDirectories.ConApp.csproj.CoreCompileInputs.cache
+C:\Users\zeili\OneDrive\PrivatProjects\QTTankpreise\CleanDirectories.ConApp\obj\Debug\net7.0\CleanDirectories.ConApp.dll
+C:\Users\zeili\OneDrive\PrivatProjects\QTTankpreise\CleanDirectories.ConApp\obj\Debug\net7.0\refint\CleanDirectories.ConApp.dll
+C:\Users\zeili\OneDrive\PrivatProjects\QTTankpreise\CleanDirectories.ConApp\obj\Debug\net7.0\CleanDirectories.ConApp.pdb
+C:\Users\zeili\OneDrive\PrivatProjects\QTTankpreise\CleanDirectories.ConApp\obj\Debug\net7.0\CleanDirectories.ConApp.genruntimeconfig.cache
+C:\Users\zeili\OneDrive\PrivatProjects\QTTankpreise\CleanDirectories.ConApp\obj\Debug\net7.0\ref\CleanDirectories.ConApp.dll

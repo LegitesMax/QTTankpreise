@@ -1,0 +1,99 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{3A10B32A-3DF2-4D09-90C0-B1130F21D940}") = "QTTankpreise.Logic", "QTTankpreise.Logic\QTTankpreise.Logic.csproj", "{4BA6D589-2D38-4527-BD59-B827DAB0D5F4}"
+EndProject
+Project("{0259DD6C-B051-4313-880E-2C2A86B35B13}") = "QTTankpreise.ConApp", "QTTankpreise.ConApp\QTTankpreise.ConApp.csproj", "{BA9F6754-9315-4674-AB53-34CB4BB5F30B}"
+EndProject
+Project("{2BD73B0B-4700-4264-ABA9-E3D5B49EB971}") = "QTTankpreise.WebApi", "QTTankpreise.WebApi\QTTankpreise.WebApi.csproj", "{A75A5F5C-82CC-447B-A96D-242738B70C55}"
+EndProject
+Project("{1A31821D-56C2-426E-9AFF-EBD66287BC39}") = "CommonBase", "CommonBase\CommonBase.csproj", "{5D5C4E63-A490-4AD3-8B36-7CF49A5F5937}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}")="Documents","Documents","{7D1E32D0-6289-41AB-B44D-31F87C0C21A2}"
+	ProjectSection(SolutionItems)=preProject
+		cmd.md=cmd.md
+		CodeGeneration.csv=CodeGeneration.csv
+		CodeGenerationCommands.txt=CodeGenerationCommands.txt
+		ReadMe.md=ReadMe.md
+	EndProjectSection
+EndProject
+Project("{7678BAB1-9BC3-4B45-9EDA-3E72A330F273}") = "QTTankpreise.AspMvc", "QTTankpreise.AspMvc\QTTankpreise.AspMvc.csproj", "{F32EA400-BBCC-4F3C-8A2B-882A20C9C1E8}"
+EndProject
+Project("{183F6B50-D99D-4A9C-AD9D-0CBD104A1D15}") = "QTTankpreise.Logic.UnitTest", "QTTankpreise.Logic.UnitTest\QTTankpreise.Logic.UnitTest.csproj", "{DA2BE746-8EFA-48EB-BE54-F27E3ED868C4}"
+EndProject
+Project("{DC308C94-779B-4573-AF32-712B12425112}") = "TemplateCodeGenerator.Logic", "TemplateCodeGenerator.Logic\TemplateCodeGenerator.Logic.csproj", "{9989F8F7-0521-4FC3-9B5B-3630147D3079}"
+EndProject
+Project("{EA566CFE-FCD8-4FC2-8E0B-E708FC05FF73}") = "QTTankpreise.CodeGenApp", "QTTankpreise.CodeGenApp\QTTankpreise.CodeGenApp.csproj", "{E9927C76-769B-4368-8BE5-21628FA1387C}"
+EndProject
+Project("{C826F06C-ED55-4315-BA3A-347F9685E9E1}") = "TemplateTools.ConApp", "TemplateTools.ConApp\TemplateTools.ConApp.csproj", "{4C5CD833-CD9C-45C1-B0B5-CBC0D26C6A68}"
+EndProject
+Project("{034B399E-B8EF-4C8A-ACD1-6F1966A0A1AB}") = "QTTankpreise.WpfApp", "QTTankpreise.WpfApp\QTTankpreise.WpfApp.csproj", "{3E4E7018-4F7E-43EC-A120-8F5888739DD8}"
+EndProject
+Project("{5616676E-F72B-419A-AE78-1C4FDEECA2F6}") = "QTTankpreise.MvvMApp", "QTTankpreise.MvvMApp\QTTankpreise.MvvMApp.csproj", "{68A881A7-01F7-46C6-8164-58DA2B3DF66F}"
+EndProject
+Project("{8C15AE94-F06C-4DBB-88B0-F192CFDE0ED6}") = "CleanDirectories.ConApp", "CleanDirectories.ConApp\CleanDirectories.ConApp.csproj", "{AF04B8B2-D4BA-4940-9133-E6BD1853F0C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BA6D589-2D38-4527-BD59-B827DAB0D5F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BA6D589-2D38-4527-BD59-B827DAB0D5F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BA6D589-2D38-4527-BD59-B827DAB0D5F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BA6D589-2D38-4527-BD59-B827DAB0D5F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA9F6754-9315-4674-AB53-34CB4BB5F30B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA9F6754-9315-4674-AB53-34CB4BB5F30B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA9F6754-9315-4674-AB53-34CB4BB5F30B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA9F6754-9315-4674-AB53-34CB4BB5F30B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A75A5F5C-82CC-447B-A96D-242738B70C55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A75A5F5C-82CC-447B-A96D-242738B70C55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A75A5F5C-82CC-447B-A96D-242738B70C55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A75A5F5C-82CC-447B-A96D-242738B70C55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D5C4E63-A490-4AD3-8B36-7CF49A5F5937}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D5C4E63-A490-4AD3-8B36-7CF49A5F5937}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D5C4E63-A490-4AD3-8B36-7CF49A5F5937}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D5C4E63-A490-4AD3-8B36-7CF49A5F5937}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F32EA400-BBCC-4F3C-8A2B-882A20C9C1E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F32EA400-BBCC-4F3C-8A2B-882A20C9C1E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F32EA400-BBCC-4F3C-8A2B-882A20C9C1E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F32EA400-BBCC-4F3C-8A2B-882A20C9C1E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA2BE746-8EFA-48EB-BE54-F27E3ED868C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA2BE746-8EFA-48EB-BE54-F27E3ED868C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA2BE746-8EFA-48EB-BE54-F27E3ED868C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA2BE746-8EFA-48EB-BE54-F27E3ED868C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9989F8F7-0521-4FC3-9B5B-3630147D3079}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9989F8F7-0521-4FC3-9B5B-3630147D3079}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9989F8F7-0521-4FC3-9B5B-3630147D3079}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9989F8F7-0521-4FC3-9B5B-3630147D3079}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9927C76-769B-4368-8BE5-21628FA1387C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9927C76-769B-4368-8BE5-21628FA1387C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9927C76-769B-4368-8BE5-21628FA1387C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9927C76-769B-4368-8BE5-21628FA1387C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C5CD833-CD9C-45C1-B0B5-CBC0D26C6A68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C5CD833-CD9C-45C1-B0B5-CBC0D26C6A68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C5CD833-CD9C-45C1-B0B5-CBC0D26C6A68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C5CD833-CD9C-45C1-B0B5-CBC0D26C6A68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E4E7018-4F7E-43EC-A120-8F5888739DD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E4E7018-4F7E-43EC-A120-8F5888739DD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E4E7018-4F7E-43EC-A120-8F5888739DD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E4E7018-4F7E-43EC-A120-8F5888739DD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68A881A7-01F7-46C6-8164-58DA2B3DF66F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68A881A7-01F7-46C6-8164-58DA2B3DF66F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68A881A7-01F7-46C6-8164-58DA2B3DF66F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68A881A7-01F7-46C6-8164-58DA2B3DF66F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF04B8B2-D4BA-4940-9133-E6BD1853F0C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF04B8B2-D4BA-4940-9133-E6BD1853F0C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF04B8B2-D4BA-4940-9133-E6BD1853F0C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF04B8B2-D4BA-4940-9133-E6BD1853F0C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF03B1AA-1561-490C-A754-A0BBC20ED76E}
+	EndGlobalSection
+EndGlobal

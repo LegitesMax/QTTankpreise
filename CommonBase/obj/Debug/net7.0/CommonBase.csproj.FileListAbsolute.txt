@@ -1,0 +1,12 @@
+C:\Users\zeili\OneDrive\PrivatProjects\QTTankpreise\CommonBase\bin\Debug\net7.0\CommonBase.deps.json
+C:\Users\zeili\OneDrive\PrivatProjects\QTTankpreise\CommonBase\bin\Debug\net7.0\CommonBase.dll
+C:\Users\zeili\OneDrive\PrivatProjects\QTTankpreise\CommonBase\bin\Debug\net7.0\CommonBase.pdb
+C:\Users\zeili\OneDrive\PrivatProjects\QTTankpreise\CommonBase\obj\Debug\net7.0\CommonBase.csproj.AssemblyReference.cache
+C:\Users\zeili\OneDrive\PrivatProjects\QTTankpreise\CommonBase\obj\Debug\net7.0\CommonBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeili\OneDrive\PrivatProjects\QTTankpreise\CommonBase\obj\Debug\net7.0\CommonBase.AssemblyInfoInputs.cache
+C:\Users\zeili\OneDrive\PrivatProjects\QTTankpreise\CommonBase\obj\Debug\net7.0\CommonBase.AssemblyInfo.cs
+C:\Users\zeili\OneDrive\PrivatProjects\QTTankpreise\CommonBase\obj\Debug\net7.0\CommonBase.csproj.CoreCompileInputs.cache
+C:\Users\zeili\OneDrive\PrivatProjects\QTTankpreise\CommonBase\obj\Debug\net7.0\CommonBase.dll
+C:\Users\zeili\OneDrive\PrivatProjects\QTTankpreise\CommonBase\obj\Debug\net7.0\refint\CommonBase.dll
+C:\Users\zeili\OneDrive\PrivatProjects\QTTankpreise\CommonBase\obj\Debug\net7.0\CommonBase.pdb
+C:\Users\zeili\OneDrive\PrivatProjects\QTTankpreise\CommonBase\obj\Debug\net7.0\ref\CommonBase.dll
